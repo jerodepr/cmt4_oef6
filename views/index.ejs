@@ -1,0 +1,39 @@
+<% include header %>
+
+
+
+
+
+<div class="logoPos">
+    
+   <div class="logo">
+    </div>
+
+</div>
+
+
+  <% var teller = 1; %>
+  <% museum.forEach(function(item){ %>
+    
+
+<div class="folder">
+    <img class="foto" src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
+
+        <div class="tekst">
+            <div class="innertekst">
+            <div class="center">
+            <h2>
+                <a href=/items/<%- item.id %>><%- item.titel %></a>
+            </h2>
+            <p>
+                <%- item.samenvatting %>
+            </p> 
+                
+                </div>
+            </div>
+        </div>
+</div>
+    <% teller++;}); %>
+
+
+<% include footer %>

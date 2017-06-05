@@ -1,0 +1,47 @@
+{
+    "museum":
+    [
+        {
+            "nummer": "1","titel": "Here comes Fantaman",
+            "id": 212,
+            "datum": "18/05/2017 • 22:45",
+            "auteur": "Vandenbempt",
+            "categorieen": ["Fantaman"],
+            "samenvatting": " Here comes Fantaman.",
+            "body": "<p>Upstairs at the Marlborough Contemporary, a woman bows over a pad of headed notepaper. She doesn’t look up when the door opens. She picks a fluorescent highlighter from a heap in her lap and with the broad side of the nib blocks out a quad of blue or green – close, companionable colours. Then she picks up another pen and moves on to a new quad. She fills the page methodically, a thin white rim around each swatch. She doesn’t look up, and she doesn’t stop until the paper is complete.<br><br>Susan Te Kahurangi King is 66 and she has been drawing since she was a young child. For decades the marks that streamed out of her pen have been her prime means of expression, because at around the age of four, King stopped speaking. By the age of nine she had stripped her verbal communication down to an occasional word. At 10, her grandparents were discussing a funeral they had been to, and Susan broke her silence to say: “Dead. Dead. Dead.” It is the last thing anyone remembers her saying.<br><br>Sometimes as a child, she hummed or sang as she drew. But when the family introduced her to people, where she grew up in Te Aroha, in rural New Zealand, they’d say, “This is Susan, she doesn’t talk, but she does great art.<p><img class='foto2' src='../img/museum3.jpg'>",
+            "afbeeldingl": "museum.jpg",
+            "afbeeldings": "museum.jpg"
+        },
+        {
+            "nummer": "2","titel": "Doug King/Courtesy Marlborough Contemporary",
+            "id": 210,
+            "datum": "19/05/2017 • 08:43",
+            "categorieen": ["Eten"],
+            "samenvatting": "King’s family have always appreciated her work",
+            "body": "<p>King’s family have always appreciated her work. But it is only in the last few years that she has broken into the commercial world with her first exhibitions at the Outsider art fairs in Paris and New York, and at the ICA Miami. Thousands of miles separate where Susan lives with her sister Wendy, her main carer, in Hamilton, New Zealand, and New York or Dallas, where the freelance curator Chris Byrne divides his time. But one day Byrne was chatting with his friend, the artist and illustrator Gary Panter. Panter mentioned King – he’d come across her work on Facebook – and after the two men had said goodbye, Byrne looked her up. It was like viewing a Philip Guston, he says. “There’s an immediacy there. I knew it so quickly. As a draughtsman she is off the charts, as an image-maker too.”</p><img class='foto2' src='../img/painting2.jpg'><img class='foto2' src='../img/painting3.jpg'><img class='foto2' src='../img/painting4.jpg'>",
+            "afbeeldingl": "painting.jpg",
+            "afbeeldings": "painting.jpg"
+        },
+        {
+            "nummer": "3","titel": "Nightmarish cartoon parties run through her early works",
+            "id": 188,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["Handeling","Eten"],
+            "samenvatting": "King never plans, never uses an eraser.",
+            "body": "<p>King never plans, never uses an eraser. Interestingly, given her silence, there are a lot of open mouths. And a lot of phallic imagery. (Recently the family found, tucked into Susan’s late grandmother’s diary, six detailed sketches they refer to as the penis drawings.) Who knows what she’s seen where?” says her younger sister Petita Cole, who manages the art side of Susan’s life, when I ask her about this. Mum used to say ‘Look, you know, the hospital people when she was staying in the psychiatric ward, they were doing anything to get a reaction from her.</p> ",
+            "afbeeldingl": "typo.jpg",
+            "afbeeldings": "typo.jpg"
+        },
+        {
+            "nummer": "4","titel": "Susan te Kahurangi King Photograph",
+            "id": 198,
+            "datum": "19/05/2017 • 06:06",
+            "categorieen": ["Handeling","Eten"],
+            "samenvatting": "Petita believes that the school hampered her sister’s creativity.",
+            "body": "<p>At five, her teacher raised concerns about her silence, triggering a long and faltering investigation into King’s muteness. Eventually, the family moved to Auckland to be within reach of an IHC school for children with learning disabilities, which King continued to attend long into adulthood. But Petita believes that the school hampered her sister’s creativity. It was a case of, “Come on, you’re grown up now, we’re not doing art!” Instead King spent her days on assembly work, fitting the cardboard bit inside the lid of Nutella jars.</p><img class='foto2' src='../img/urban2.jpg'><img class='foto2' src='../img/urban3.jpg'><img class='foto2' src='../img/urban4.jpg'>",
+            "afbeeldingl": "urban.jpg",
+            "afbeeldings": "urban.jpg"
+        }
+        
+    ]
+}
